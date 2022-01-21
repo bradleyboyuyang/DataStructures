@@ -1,1 +1,7 @@
-# CSC3100-Data-Structure-Projects
+## CSC3100-Data-Structure-Projects
+
+This course improves students' Java programming skills with applications in data structures. <br>
+Project 1 includes recursive design of arithemetic expression evaluation, supporting functions of cosine, sine, tangent, sqrt, parantheses and possible irregular inputs. <br>
+Project 2 designs celebrated Huffman code decompression and compression implementations. <br>
+Project 3 involves using A* algorithm in solving 3 by 3 puzzles utilizing different heuristic functions (compared with BFS and DFS!) <br>
+Project 4 is the application of linked-lists in sparse matrix management, dealing with the simplest addition and subtraction operations (hashmaps are efficient!)
