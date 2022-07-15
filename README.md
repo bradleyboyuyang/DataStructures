@@ -1,5 +1,5 @@
 ## Data-Structure-Projects
-This repository contains the clean version of code for the final project of Data Structures (CSC3100) of CUHK(SZ). Full scores received for all the four projects.
+This repository contains the clean version of code for the four mini-projects of Data Structures (CSC3100) of CUHK(SZ). Full scores received for all the four projects.
 
 ### **Guideline**
 - Project 1 includes recursive design of arithemetic expression evaluation, supporting functions of cosine, sine, tangent, sqrt, parantheses and possible irregular inputs; <br>
